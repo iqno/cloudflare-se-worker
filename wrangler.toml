@@ -1,0 +1,9 @@
+name = "wrangler-tunnel-worker"
+main = "src/index.js"
+account_id = "14ad0c975d5e428049b7950b059a1d71"
+compatibility_date = "2024-04-23"
+
+[[r2_buckets]]
+binding = "FLAGS"
+bucket_name = "flags"
+preview_bucket_name = "flags"
